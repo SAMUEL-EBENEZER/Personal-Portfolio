@@ -1,0 +1,110 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Blessed Samuel
+Blessed Samuel
+Recent Graduate
+
+Show Contacts
+
+Email
+samuelebenezer2022@gmail.com
+
+Phone
++91 8667272855
+
+Birthday
+April 15, 2004
+
+Location
+Chennai, Tamil Nadu, India
+
+# navbar
+
+About
+Resume
+
+# about
+
+About me
+
+I'm a Computer Science graduate from DG Vaishnav College, Chennai, India.
+Proficient in programming languages such as HTML, CSS, JavaScript, Python, and Visual Basic. 
+Skilled in identifying and fixing code errors with experience in web development.
+            
+I have independently designed and developed a personal web page, gaining practical experience and honing technical skills through various projects and coursework. 
+Currently, I am actively seeking job opportunities to use my skills and contribute to a dynamic team.
+
+## service
+
+What i've done 
+
+alt = design icon
+Web design
+I create modern and attractive designs with great attention to detail. 
+
+alt = Web development icon
+Web development
+ I develop interactive web pages.
+
+alt = mobile app icon
+Python Development
+I develop Python projects using ML.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+# resume
+
+Resume
+
+Education
+
+Bachelor of Science in Computer Science
+2021 – 2024
+CGPA 8.1 · Dwaraka Doss Governdhan Doss Vaishnav College
+
+Higher Secondary School
+2020 - 2021
+89.4% · Pioneer Matric Higher Secondary School
+
+Secondary School
+2018 - 2019
+84.2% · Pioneer Matric Higher Secondary School
+
+Projects
+
+Air Canvas using Machine Learning
+February,2024 — March,2024
+Developed a Python project using OpenCV and MediaPipe for computer vision and machine learning. 
+Created an "Air Canvas" app enabling users to draw in the air by tracking hand movements and detecting knuckle landmarks.  
+
+International Conference on Neoteric Computing And Artificial Intelligence 
+2023
+Presented a research paper on using machine learning to find and stop malware. 
+Looked at different models to see how well they work. 
+Used Python to reduce complexity and easy coding.
+Showed a solid understanding of using machine learning in cybersecurity.
+
+Focus Learning - E-Learning platform Website
+November,2021 — December,2021
+Created a responsive website named ”Focus Learning” using HTML, CSS, and JavaScript, with the goal of enabling users to register for classes and attend classes online.
+
+My skills
+
+Web design
+60%
+Python
+70%
+MySQL
+60%
+Visual Basics
+90%
+Figma
+40%
+WordPress
+70%
+
